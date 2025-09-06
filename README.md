@@ -234,6 +234,6 @@ _07/2019 - 06/2020_
         align="left"
         alt="GitHub Top Languages"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=tokyonight&layout=compact&custom_title=Technologies"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=tokyonight&layout=compact&custom_title=Top%20Languages"
     />
 </p>
