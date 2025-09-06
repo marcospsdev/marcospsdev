@@ -1,34 +1,34 @@
 # 👨🏽‍💻 Marcos Paulo Pinto dos Santos Filho
 
-**`Desenvolvedor Full-Stack & Analista de Qualidade`**
+**`Full-Stack Developer & Quality Analyst`**
 
-Olá! Meu nome é Marcos Paulo, tenho 25 anos e sou de Fortaleza, Ceará. Atuo como Desenvolvedor Full-Stack, com 7 anos de experiência, e Analista de Qualidade, com 4 anos de experiência. Minha paixão é criar soluções web robustas, de alta performance e com foco na melhor experiência do usuário.
+Hello! My name is Marcos Paulo, I'm 25 years old and I'm from Fortaleza, Ceará. I work as a Full-Stack Developer with 7 years of experience, and a Quality Analyst with 4 years of experience. My passion is to create robust, high-performance web solutions with a focus on the best user experience.
 
-Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back-end (Node.js, APIs RESTful) e DevOps (Docker, CI/CD). Sou proficiente em metodologias ágeis como Scrum e em boas práticas de código, como Clean Code e SOLID. Na área de QA, possuo vasta experiência em testes automatizados (Cypress, Jest), testes de API e BDD.
+I specialize in Front-end development (Angular, React, TypeScript), Back-end (Node.js, RESTful APIs) and DevOps (Docker, CI/CD). I'm proficient in agile methodologies such as Scrum and in good coding practices, such as Clean Code and SOLID. In the QA area, I have extensive experience in automated testing (Cypress, Jest), API testing, and BDD.
 
 ---
 
-### 🌐 Conecte-se
+### 🌐 Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcospsdev">
         <img
             alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
+            title="Connect with me on LinkedIn"
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/marcospsdev?tab=followers">
         <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="mailto:contato.marcosps@gmail.com">
         <img
             alt="Email"
-            title="Envie um e-mail"
+            title="Send an email"
             src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
@@ -36,9 +36,9 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
 
 ---
 
-### 💻 Habilidades e Competências
+### 💻 Skills and Competencies
 
-<img 
+<img
     align="left"
     alt="JavaScript"
     title="JavaScript"
@@ -46,7 +46,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
+<img
     align="left"
     alt="TypeScript"
     title="TypeScript"
@@ -54,7 +54,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-<img 
+<img
     align="left"
     alt="React"
     title="React"
@@ -62,7 +62,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Angular"
     title="Angular"
@@ -70,7 +70,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Node.js"
     title="Node.js"
@@ -78,7 +78,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-<img 
+<img
     align="left"
     alt="HTML5"
     title="HTML5"
@@ -86,7 +86,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-<img 
+<img
     align="left"
     alt="CSS3"
     title="CSS3"
@@ -94,7 +94,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Tailwind CSS"
     title="Tailwind CSS"
@@ -102,7 +102,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Sass"
     title="Sass"
@@ -110,7 +110,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Cypress"
     title="Cypress"
@@ -118,7 +118,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Jest"
     title="Jest"
@@ -126,7 +126,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
 />
-<img 
+<img
     align="left"
     alt="Docker"
     title="Docker"
@@ -134,7 +134,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Git"
     title="Git"
@@ -142,7 +142,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Jira"
     title="Jira"
@@ -150,7 +150,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
 />
-<img 
+<img
     align="left"
     alt="Figma"
     title="Figma"
@@ -158,7 +158,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-<img 
+<img
     align="left"
     alt="PostgreSQL"
     title="PostgreSQL"
@@ -166,7 +166,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-<img 
+<img
     align="left"
     alt="MySQL"
     title="MySQL"
@@ -174,7 +174,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
-<img 
+<img
     align="left"
     alt="C#"
     title="C#"
@@ -188,52 +188,52 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-**Analista de Qualidade Pleno | Nway Pro**
+**Mid-Level Quality Analyst | Nway Pro**
 _03/2023 - 02/2025_
--   Responsável pela implementação da arquitetura de testes automatizados com **Cypress**.
--   Apliquei **CI/CD** com Bitbucket Pipelines para otimizar a entrega de software.
--   Realizei testes manuais e exploratórios em aplicações web e APIs, utilizando a abordagem **BDD**.
+-   Responsible for implementing the automated testing architecture with **Cypress**.
+-   Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.
+-   Performed manual and exploratory tests on web applications and APIs, using a **BDD** approach.
 
-**Desenvolvedor Front-end Pleno | WDA Tecnologia & Inovação**
+**Mid-Level Front-end Developer | WDA Tecnologia & Inovação**
 _06/2020 - 03/2023_
--   Desenvolvi aplicações de gerenciamento com **Angular, HTML, CSS e TypeScript**.
--   Utilizei **Gitflow** e **Scrum** para versionamento e gestão de projetos.
--   Foco na integração de APIs REST e na criação de interfaces intuitivas (UX).
+-   Developed management applications with **Angular, HTML, CSS, and TypeScript**.
+-   Used **Gitflow** and **Scrum** for versioning and project management.
+-   Focused on REST API integration and creating intuitive interfaces (UX).
 
-**Desenvolvedor Front-end Júnior | NEPEN**
+**Junior Front-end Developer | NEPEN**
 _07/2019 - 06/2020_
--   Contribuí para o desenvolvimento de uma aplicação web em **Angular**.
--   Participei ativamente de code reviews e da integração com APIs REST.
+-   Contributed to the development of a web application in **Angular**.
+-   Actively participated in code reviews and REST API integration.
 
 ---
 
-### 🎓 Formação e Certificações
+### 🎓 Education and Certifications
 
--   **Graduação em Análise e Desenvolvimento de Sistemas** (2019 - 2021) - Unifametro
--   **Técnico em Informática** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
--   **Cypress, do Zero à Nuvem** (Udemy)
--   **Formação React JS** (Udemy)
--   **Formação Angular 17** (Udemy)
+-   **Bachelor's Degree in Systems Analysis and Development** (2019 - 2021) - Unifametro
+-   **Technical Degree in Information Technology** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
+-   **Cypress, from Zero to Cloud** (Udemy)
+-   **React JS Training** (Udemy)
+-   **Angular 17 Training** (Udemy)
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-  />
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    />
 
-  <img
-    align="left"
-    alt="GitHub Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dracula&layout=compact&custom_title=Tecnologias"
-  />
+    <img
+        align="left"
+        alt="GitHub Top Languages"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=tokyonight&layout=compact&custom_title=Technologies"
+    />
 </p>
