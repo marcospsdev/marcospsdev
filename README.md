@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Marcos Paulo Pinto dos Santos Filho
+# 👨🏽‍💻 Marcos Paulo Pinto dos Santos Filho
 
 **`Desenvolvedor Full-Stack & Analista de Qualidade`**
 
