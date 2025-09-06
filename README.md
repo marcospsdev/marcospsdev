@@ -1,31 +1,39 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MarcosPauloPinto/MarcosPauloPinto/main/background-animation.svg" width="100%"/>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MarcosPauloPinto/MarcosPauloPinto/main/banner.svg" alt="Banner com o nome Marcos Paulo Pinto dos Santos Filho" width="100%"/>
 </div>
 
 🚀 Marcos Paulo Pinto dos Santos Filho
 Full-Stack Developer
 
-A passionate 25-year-old Full-Stack developer from Fortaleza, Ceará, Brazil. I am a graduate in Systems Analysis and Development from Unifametro, with a technical degree in Informatics from EEEP. Dona Creusa do Carmo Rocha. I specialize in creating robust web applications with a focus on delivering excellent user experiences.
+<p>A passionate 25-year-old Full-Stack developer from Fortaleza, Ceará, Brazil. I am a graduate in Systems Analysis and Development from Unifametro, with a technical degree in Informatics from EEEP. Dona Creusa do Carmo Rocha. I specialize in creating robust web applications with a focus on delivering excellent user experiences.</p>
+
+✨ My Highlights
+<p align="left">
+<a href="https://www.google.com/search?q=https://github.com/MarcosPauloPinto%3Ftab%3Drepositories%26sort%3Dstargazers">
+<img
+alt="Total Stars"
+title="Total Stars on GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/MarcosPauloPinto%3Fcolor%3D8A2BE2%26style%3Dfor-the-badge%26labelColor%3D500096%26logo%3Dstar%26label%3DStars"
+/>
+</a>
+<a href="https://www.google.com/search?q=https://github.com/MarcosPauloPinto%3Ftab%3Dfollowers">
+<img
+alt="Followers"
+title="Followers on GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/MarcosPauloPinto%3Fcolor%3D00FFFF%26labelColor%3D009999%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DFollowers%26logoColor%3Dwhite"
+/>
+</a>
+</p>
 
 💻 Technologies & Expertise
 <div align="center">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dangular,react,nodejs,ts,js,html,css,sass,bootstrap,tailwind,nextjs,express,nestjs,firebase,mysql,postgresql,php,laravel,git,cypress,jest" />
 </div>
 
-✨ My Highlights
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/MarcosPauloPinto%3Ftab%3Drepositories%26sort%3Dstargazers">
-<img alt="Total Stars" title="Total Stars" src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/MarcosPauloPinto%3Fcolor%3D55960c%26style%3Dfor-the-badge%26labelColor%3D488207%26logo%3Dstar%26label%3DStars" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/MarcosPauloPinto%3Ftab%3Dfollowers">
-<img alt="Followers" title="Followers" src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/MarcosPauloPinto%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DFollowers%26logoColor%3Dwhite" />
-</a>
-</p>
-
 📈 GitHub Stats
 <div align="center">
-<img align="left" alt="GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMarcosPauloPinto%26show_icons%3Dtrue%26theme%3Dmidnight-purple%26include_all_commits%3Dtrue%26locale%3Den" />
-<img align="left" alt="Top Languages" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMarcosPauloPinto%26theme%3Dmidnight-purple%26layout%3Dcompact%26custom_title%3DTop Languages&langs_count=10" />
+<img align="left" alt="GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMarcosPauloPinto%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26locale%3Den%26bg_color%3D191970%26text_color%3D00FFFF%26icon_color%3D00FFFF" />
+<img align="left" alt="Top Languages" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMarcosPauloPinto%26theme%3Ddark%26layout%3Dcompact%26custom_title%3DTop Languages&langs_count=10&bg_color=191970&text_color=00FFFF&icon_color=00FFFF" />
 </div>
 <br/>
 <br/>
