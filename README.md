@@ -227,7 +227,7 @@ _07/2019 - 06/2020_
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=en-us"
+    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=en-usa"
   />
 
   <img
