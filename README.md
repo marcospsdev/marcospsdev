@@ -210,7 +210,7 @@ _03/2023 - 02/2025_
 -   Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.
 -  Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.
 
-**Mid-level Front-end Developer | WDA Technology & Innovation**
+**Mid-level Front-end Developer | WDA Tecnologia & Inovação**
 _06/2020 - 03/2023_
 -  Developed management applications with **Angular, HTML, CSS, and TypeScript**.
 - I used **Gitflow** and **Scrum** for versioning and project management.
@@ -220,6 +220,12 @@ Junior Front-end Developer | NEPEN
 _07/2019 - 06/2020_
 -   Contributed to the development of a web application in **Angular**.
 -   Actively participated in code reviews and integration with REST APIs.
+
+**Front-end Developer Intern | WDA Tecnologia & Inovação**
+_08/2018 - 11/2018_
+- Assisted in the development and maintenance of website and application interfaces, using **WordPress, HTML, CSS, and JavaScript**.
+- Collaborated on creating responsive designs, performing adjustments and bug fixes.
+- I supported the back-end team in integrating features in C# (.NET), continuously learning and improving my skills under the guidance of experienced developers.
 
 ---
 
