@@ -198,13 +198,19 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 💼 Professional Experience
 
+**Mid-level Front-end Developer | GreenTech Solutions**
+_08/2025 - Present_
+- Implementing new features and making adjustments in React applications.
+- Responsible for API integrations and striving for the best user experience.
+- Following good programming practices and clean code to maintain code quality.
+
 **Senior Quality Analyst | Nway Pro**
 _03/2023 - 02/2025_
 -   Responsible for implementing automated testing architecture with **Cypress**.
 -   Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.
 -  Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.
 
-**Full Front-end Developer | WDA Technology & Innovation**
+**Mid-level Front-end Developer | WDA Technology & Innovation**
 _06/2020 - 03/2023_
 -  Developed management applications with **Angular, HTML, CSS, and TypeScript**.
 - I used **Gitflow** and **Scrum** for versioning and project management.
