@@ -14,21 +14,21 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
     <a href="https://www.linkedin.com/in/marcospsdev">
         <img
             alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
+            title="Connect with me on LinkedIn"
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/marcospsdev?tab=followers">
         <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
+            alt="Followers"
+            title="Follow me on GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="mailto:contato.marcosps@gmail.com">
         <img
             alt="Email"
-            title="Envie um e-mail"
+            title="Send an email"
             src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
@@ -227,13 +227,13 @@ _07/2019 - 06/2020_
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=en-us"
   />
 
   <img
     align="left"
     alt="GitHub Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dracula&layout=compact&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dracula&layout=compact&custom_title=Technologies"
   />
 </p>
