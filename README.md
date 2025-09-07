@@ -1,14 +1,14 @@
 # 👨🏽‍💻 Marcos Paulo Pinto dos Santos Filho
 
-**`Desenvolvedor Full-Stack & Analista de Qualidade`**
+**`Full-Stack Developer`**
 
-Olá! Meu nome é Marcos Paulo, tenho 25 anos e sou de Fortaleza, Ceará. Atuo como Desenvolvedor Full-Stack, com 7 anos de experiência, e Analista de Qualidade, com 4 anos de experiência. Minha paixão é criar soluções web robustas, de alta performance e com foco na melhor experiência do usuário.
+Hello! My name is Marcos Paulo, I am 25 years old and I am from Fortaleza, Ceará, Brazil. I work as a Full-Stack Developer and have 10 years of programming experience. My passion is creating robust, high-performance web solutions focused on the best user experience.
 
-Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back-end (Node.js, APIs RESTful) e DevOps (Docker, CI/CD). Sou proficiente em metodologias ágeis como Scrum e em boas práticas de código, como Clean Code e SOLID. Na área de QA, possuo vasta experiência em testes automatizados (Cypress, Jest), testes de API e BDD.
+I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angular, React, Vue), Back-end (Node.js, Java, C#, RESTful APIs), and DevOps (Docker, CI/CD). I am proficient in agile methodologies such as Scrum and BDD, and I adopt good coding practices such as Clean Code and SOLID. In the area of Quality Analysis, I have extensive experience in developing automated tests (Cypress, Jest) and API tests.
 
 ---
 
-### 🌐 Conecte-se
+### 🌐 Connect
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcospsdev">
@@ -36,7 +36,7 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
 
 ---
 
-### 💻 Habilidades e Competências
+### 💻 Skills and Competencies
 
 <img 
     align="left"
@@ -188,38 +188,38 @@ Sou especialista em desenvolvimento Front-end (Angular, React, TypeScript), Back
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-**Analista de Qualidade Pleno | Nway Pro**
+**Senior Quality Analyst | Nway Pro**
 _03/2023 - 02/2025_
--   Responsável pela implementação da arquitetura de testes automatizados com **Cypress**.
--   Apliquei **CI/CD** com Bitbucket Pipelines para otimizar a entrega de software.
--   Realizei testes manuais e exploratórios em aplicações web e APIs, utilizando a abordagem **BDD**.
+-   Responsible for implementing automated testing architecture with **Cypress**.
+-   Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.
+-  Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.
 
-**Desenvolvedor Front-end Pleno | WDA Tecnologia & Inovação**
+**Full Front-end Developer | WDA Technology & Innovation**
 _06/2020 - 03/2023_
--   Desenvolvi aplicações de gerenciamento com **Angular, HTML, CSS e TypeScript**.
--   Utilizei **Gitflow** e **Scrum** para versionamento e gestão de projetos.
--   Foco na integração de APIs REST e na criação de interfaces intuitivas (UX).
+-  Developed management applications with **Angular, HTML, CSS, and TypeScript**.
+- I used **Gitflow** and **Scrum** for versioning and project management.
+- Focus on integrating REST APIs and creating intuitive interfaces (UX).
 
-**Desenvolvedor Front-end Júnior | NEPEN**
+Junior Front-end Developer | NEPEN
 _07/2019 - 06/2020_
--   Contribuí para o desenvolvimento de uma aplicação web em **Angular**.
--   Participei ativamente de code reviews e da integração com APIs REST.
+-   Contributed to the development of a web application in **Angular**.
+-   Actively participated in code reviews and integration with REST APIs.
 
 ---
 
-### 🎓 Formação e Certificações
+### 🎓 Education and Certifications
 
--   **Graduação em Análise e Desenvolvimento de Sistemas** (2019 - 2021) - Unifametro
--   **Técnico em Informática** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
--   **Cypress, do Zero à Nuvem** (Udemy)
--   **Formação React JS** (Udemy)
--   **Formação Angular 17** (Udemy)
+- **Bachelor's Degree in Systems Analysis and Development** (2019 - 2021) - Unifametro
+- **Computer Technician** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
+- **Cypress, from Zero to Cloud** (Udemy)
+- **React JS Training** (Udemy)
+- **Angular 17 Training** (Udemy)
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img
