@@ -227,13 +227,13 @@ _07/2019 - 06/2020_
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dracula&include_all_commits=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dark&include_all_commits=true&locale=en"
   />
 
   <img
     align="left"
     alt="GitHub Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dracula&layout=compact&custom_title=Technologies"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dark&layout=compact&custom_title=Technologies"
   />
 </p>
