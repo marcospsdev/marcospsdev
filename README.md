@@ -34,7 +34,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 💻 Skills and Competencies
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,nodejs,html,css,tailwind,sass,cypress,jest,docker,git,jira,figma,postgres,mysql,cs,java)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,html,css,tailwind,sass,vite,nodejs,php,wordpress,cs,java,express,prisma,postman,postgres,mysql,cypress,selenium,jest,docker,git,azure,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
 
 ---
 
