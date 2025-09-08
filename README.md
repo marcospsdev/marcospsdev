@@ -11,27 +11,19 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 ### 🌐 Connect
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/marcospsdev">
-        <img
-            alt="LinkedIn"
-            title="Connect with me on LinkedIn"
-            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/marcospsdev?tab=followers">
-        <img
-            alt="Followers"
-            title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="mailto:contato.marcosps@gmail.com">
-        <img
-            alt="Email"
-            title="Send an email"
-            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
+   <a href="https://www.linkedin.com/in/marcospsdev" target="_blank"><img
+    alt="LinkedIn"
+    title="Connect with me on LinkedIn"
+    src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/></a> <a href="https://github.com/marcospsdev?tab=followers" target="_blank"><img
+    alt="Followers"
+    title="Follow me on GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+/></a> <a href="mailto:contato.marcosps@gmail.com" target="_blank"><img
+    alt="Email"
+    title="Send an email"
+    src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/></a>
 </p>
 
 ---
