@@ -56,9 +56,9 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 03/2023 - 02/2025
 <ul>
-<li>Responsible for implementing automated testing architecture with **Cypress**.</li>
-<li>Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.</li>
-<li>Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.</li>
+<li>Responsible for implementing automated testing architecture with Cypress.</li>
+<li>Applied CI/CD with Bitbucket Pipelines to optimize software delivery.</li>
+<li>Performed manual and exploratory testing on web applications and APIs using the BDD approach.</li>
 </ul>
 </details>
 
@@ -67,8 +67,8 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 06/2020 - 03/2023
 <ul>
-<li>Developed management applications with **Angular, HTML, CSS, and TypeScript**.</li>
-<li>I used **Gitflow** and **Scrum** for versioning and project management.</li>
+<li>Developed management applications with Angular, HTML, CSS, and TypeScript.</li>
+<li>I used Gitflow and Scrum for versioning and project management.</li>
 <li>Focus on integrating REST APIs and creating intuitive interfaces (UX).</li>
 </ul>
 </details>
@@ -78,7 +78,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 07/2019 - 06/2020
 <ul>
-<li>Contributed to the development of a web application in **Angular**.</li>
+<li>Contributed to the development of a web application in Angular.</li>
 <li>Actively participated in code reviews and integration with REST APIs.</li>
 </ul>
 </details>
@@ -88,7 +88,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 08/2018 - 11/2018
 <ul>
-<li>Assisted in the development and maintenance of website and application interfaces, using **WordPress, HTML, CSS, and JavaScript**.</li>
+<li>Assisted in the development and maintenance of website and application interfaces, using WordPress, HTML, CSS, and JavaScript.</li>
 <li>Collaborated on creating responsive designs, performing adjustments and bug fixes.</li>
 <li>I supported the back-end team in integrating features in C# (.NET), continuously learning and improving my skills under the guidance of experienced developers.</li>
 </ul>
