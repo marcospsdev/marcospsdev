@@ -16,17 +16,17 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 <p align="left">
    <a href="https://www.linkedin.com/in/marcospsdev" target="_blank"><img
-    alt="LinkedIn"
-    title="Connect with me on LinkedIn"
-    src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+   alt="LinkedIn"
+   title="Connect with me on LinkedIn"
+   src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 /></a> <a href="https://github.com/marcospsdev?tab=followers" target="_blank"><img
-    alt="Followers"
-    title="Follow me on GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+   alt="Followers"
+   title="Follow me on GitHub"
+   src="https://custom-icon-badges.demolab.com/github/followers/marcospsdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
 /></a> <a href="mailto:contato.marcosps@gmail.com" target="_blank"><img
-    alt="Email"
-    title="Send an email"
-    src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+   alt="Email"
+   title="Send an email"
+   src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 /></a>
 </p>
 
@@ -40,34 +40,59 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 💼 Professional Experience
 
-**Mid-level Front-end Developer | GreenTech Solutions**
-_08/2025 - Present_
-- Implementing new features and making adjustments in React applications.
-- Responsible for API integrations and striving for the best user experience.
-- Following good programming practices and clean code to maintain code quality.
+<details>
+<summary><b>Mid-level Front-end Developer | GreenTech Solutions</b></summary>
+<br>
+08/2025 - Present
+<ul>
+<li>Implementing new features and making adjustments in React applications.</li>
+<li>Responsible for API integrations and striving for the best user experience.</li>
+<li>Following good programming practices and clean code to maintain code quality.</li>
+</ul>
+</details>
 
-**Senior Quality Analyst | Nway Pro**
-_03/2023 - 02/2025_
--   Responsible for implementing automated testing architecture with **Cypress**.
--   Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.
--  Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.
+<details>
+<summary><b>Senior Quality Analyst | Nway Pro</b></summary>
+<br>
+03/2023 - 02/2025
+<ul>
+<li>Responsible for implementing automated testing architecture with **Cypress**.</li>
+<li>Applied **CI/CD** with Bitbucket Pipelines to optimize software delivery.</li>
+<li>Performed manual and exploratory testing on web applications and APIs using the **BDD** approach.</li>
+</ul>
+</details>
 
-**Mid-level Front-end Developer | WDA Tecnologia & Inovação**
-_06/2020 - 03/2023_
--  Developed management applications with **Angular, HTML, CSS, and TypeScript**.
-- I used **Gitflow** and **Scrum** for versioning and project management.
-- Focus on integrating REST APIs and creating intuitive interfaces (UX).
+<details>
+<summary><b>Mid-level Front-end Developer | WDA Tecnologia & Inovação</b></summary>
+<br>
+06/2020 - 03/2023
+<ul>
+<li>Developed management applications with **Angular, HTML, CSS, and TypeScript**.</li>
+<li>I used **Gitflow** and **Scrum** for versioning and project management.</li>
+<li>Focus on integrating REST APIs and creating intuitive interfaces (UX).</li>
+</ul>
+</details>
 
-Junior Front-end Developer | NEPEN
-_07/2019 - 06/2020_
--   Contributed to the development of a web application in **Angular**.
--   Actively participated in code reviews and integration with REST APIs.
+<details>
+<summary><b>Junior Front-end Developer | NEPEN</b></summary>
+<br>
+07/2019 - 06/2020
+<ul>
+<li>Contributed to the development of a web application in **Angular**.</li>
+<li>Actively participated in code reviews and integration with REST APIs.</li>
+</ul>
+</details>
 
-**Front-end Developer Intern | WDA Tecnologia & Inovação**
-_08/2018 - 11/2018_
-- Assisted in the development and maintenance of website and application interfaces, using **WordPress, HTML, CSS, and JavaScript**.
-- Collaborated on creating responsive designs, performing adjustments and bug fixes.
-- I supported the back-end team in integrating features in C# (.NET), continuously learning and improving my skills under the guidance of experienced developers.
+<details>
+<summary><b>Front-end Developer Intern | WDA Tecnologia & Inovação</b></summary>
+<br>
+08/2018 - 11/2018
+<ul>
+<li>Assisted in the development and maintenance of website and application interfaces, using **WordPress, HTML, CSS, and JavaScript**.</li>
+<li>Collaborated on creating responsive designs, performing adjustments and bug fixes.</li>
+<li>I supported the back-end team in integrating features in C# (.NET), continuously learning and improving my skills under the guidance of experienced developers.</li>
+</ul>
+</details>
 
 ---
 
