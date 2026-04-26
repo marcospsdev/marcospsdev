@@ -98,6 +98,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 🎓 Education and Certifications
 
+- **Pursuing a Graduate Degree in Software Architecture** (2025 - Present) - UNIÚNICA
 - **Bachelor's Degree in Systems Analysis and Development** (2019 - 2021) - Unifametro
 - **Computer Technician** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
 - **Cypress, from Zero to Cloud** (Udemy)
