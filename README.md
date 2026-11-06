@@ -6,7 +6,7 @@
 
 # 👨🏽‍💻 **`Marcos Paulo Pinto dos Santos Filho`**
 
-Hello! My name is Marcos Paulo, I am 25 years old and I am from Fortaleza, Ceará, Brazil. I am a Full-Stack Developer who has been coding since 2016 and working professionally since 2018. My passion is building robust, high-performance web and mobile solutions focused on the best user experience.
+Hello! My name is Marcos Paulo, I am 26 years old and I am from Fortaleza, Ceará, Brazil. I am a Full-Stack Developer who has been coding since 2016 and working professionally since 2018. My passion is building robust, high-performance web and mobile solutions focused on the best user experience.
 
 I specialize in Front-end development (HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue), Mobile development (Flutter), Back-end (Node.js, Java, C#, RESTful APIs), and Cloud & DevOps (AWS S3, Docker, CI/CD with GitHub Actions). I work with agile methodologies such as Scrum and BDD, and I follow good coding practices such as Clean Code, SOLID, Design Patterns and GitFlow. In Quality Assurance, I have extensive experience building automated E2E, unit and API tests (Cypress, Selenium, Jest).
 
