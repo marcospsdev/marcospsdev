@@ -1,14 +1,14 @@
 <p align="center">
 <a href="https://github.com/marcospsdev">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;10%20years%20of%20experience;Passionate%20about%20robust%20solutions;Always%20learning%20and%20evolving;&font=Fira%20Code&center=true&width=440&height=45&color=00eaff&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Coding%20since%202016;Web%20and%20Mobile%20Solutions;Always%20learning%20and%20evolving;&font=Fira%20Code&center=true&width=440&height=45&color=00eaff&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
 
 # 👨🏽‍💻 **`Marcos Paulo Pinto dos Santos Filho`**
 
-Hello! My name is Marcos Paulo, I am 25 years old and I am from Fortaleza, Ceará, Brazil. I work as a Full-Stack Developer and have 10 years of programming experience. My passion is creating robust, high-performance web solutions focused on the best user experience.
+Hello! My name is Marcos Paulo, I am 25 years old and I am from Fortaleza, Ceará, Brazil. I am a Full-Stack Developer who has been coding since 2016 and working professionally since 2018. My passion is building robust, high-performance web and mobile solutions focused on the best user experience.
 
-I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angular, React, Vue), Back-end (Node.js, Java, C#, RESTful APIs), and DevOps (Docker, CI/CD). I am proficient in agile methodologies such as Scrum and BDD, and I adopt good coding practices such as Clean Code and SOLID. In the area of Quality Analysis, I have extensive experience in developing automated tests (Cypress, Jest) and API tests.
+I specialize in Front-end development (HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue), Mobile development (Flutter), Back-end (Node.js, Java, C#, RESTful APIs), and Cloud & DevOps (AWS S3, Docker, CI/CD with GitHub Actions). I work with agile methodologies such as Scrum and BDD, and I follow good coding practices such as Clean Code, SOLID, Design Patterns and GitFlow. In Quality Assurance, I have extensive experience building automated E2E, unit and API tests (Cypress, Selenium, Jest).
 
 ---
 
@@ -34,7 +34,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 💻 Skills and Competencies
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,html,css,tailwind,nodejs,php,wordpress,cs,net,java,express,prisma,postman,postgres,mysql,cypress,selenium,jest,docker,git,github,azure,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vue,html,css,tailwind,flutter,dart,nodejs,express,prisma,php,wordpress,cs,net,java,postgres,mysql,supabase,aws,docker,githubactions,cypress,selenium,jest,postman,git,github,azure,vercel,figma,photoshop,illustrator)](https://skillicons.dev)
 
 ---
 
@@ -45,9 +45,10 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 08/2025 - Present
 <ul>
-<li>Implementing new features and making adjustments in React applications.</li>
-<li>Responsible for API integrations and striving for the best user experience.</li>
-<li>Following good programming practices and clean code to maintain code quality.</li>
+<li>Technical leadership in the development and architecture of new features for complex environmental data collection, soil survey and data analysis systems, using React and TypeScript on the web platform and Flutter on the Android app.</li>
+<li>Building advanced interfaces for visualizing dense data (such as lithological profiles), optimizing rendering performance and user experience.</li>
+<li>Integrating RESTful APIs and cloud solutions on AWS, including efficient file and asset management with Amazon S3.</li>
+<li>Applying Design Patterns, Clean Code and Code Reviews to improve the maintainability and quality of the team's codebase.</li>
 </ul>
 </details>
 
@@ -56,9 +57,10 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 03/2023 - 02/2025
 <ul>
-<li>Responsible for implementing automated testing architecture with Cypress.</li>
-<li>Applied CI/CD with Bitbucket Pipelines to optimize software delivery.</li>
-<li>Performed manual and exploratory testing on web applications and APIs using the BDD approach.</li>
+<li>Designed and implemented the automated E2E testing architecture with Cypress, JavaScript and TypeScript, speeding up deliveries and reducing production bugs.</li>
+<li>Applied CI/CD with Bitbucket Pipelines to run automated tests on every update and optimize software delivery.</li>
+<li>Performed functional, exploratory and regression testing on web applications and APIs using the BDD approach.</li>
+<li>Created technical documentation and detailed Release Notes, aligning technical and business teams.</li>
 </ul>
 </details>
 
@@ -67,9 +69,10 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 06/2020 - 03/2023
 <ul>
-<li>Developed management applications with Angular, HTML, CSS, and TypeScript.</li>
-<li>I used Gitflow and Scrum for versioning and project management.</li>
-<li>Focus on integrating REST APIs and creating intuitive interfaces (UX).</li>
+<li>Developed large-scale management applications end to end with Angular, HTML, CSS and TypeScript, from architecture to production.</li>
+<li>Translated complex business requirements into responsive, intuitive interfaces with a strong focus on UX.</li>
+<li>Integrated front-end applications with RESTful APIs in a secure and performant way.</li>
+<li>Used Git with GitFlow, code reviews and Scrum to ensure stable releases and continuous delivery every sprint.</li>
 </ul>
 </details>
 
@@ -78,8 +81,10 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 07/2019 - 06/2020
 <ul>
-<li>Contributed to the development of a web application in Angular.</li>
-<li>Actively participated in code reviews and integration with REST APIs.</li>
+<li>Contributed to the development of a web application in Angular, with responsive interfaces in HTML, CSS and JavaScript.</li>
+<li>Integrated the application with RESTful APIs in close collaboration with the back-end team.</li>
+<li>Implemented performance optimizations that reduced page load times.</li>
+<li>Actively participated in code reviews and interface testing to ensure delivery quality.</li>
 </ul>
 </details>
 
@@ -88,9 +93,9 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 <br>
 08/2018 - 11/2018
 <ul>
-<li>Assisted in the development and maintenance of website and application interfaces, using WordPress, HTML, CSS, and JavaScript.</li>
-<li>Collaborated on creating responsive designs, performing adjustments and bug fixes.</li>
-<li>I supported the back-end team in integrating features in C# (.NET), continuously learning and improving my skills under the guidance of experienced developers.</li>
+<li>Developed and customized a complete website with WordPress, from the visual structure (HTML, CSS and JavaScript) to manageable admin panels.</li>
+<li>Supported the development of applications with ASP.NET Core (C#), building a solid foundation in back-end and Full-Stack development.</li>
+<li>Worked on bug fixes, responsiveness adjustments and interface improvements.</li>
 </ul>
 </details>
 
@@ -98,7 +103,7 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 🎓 Education and Certifications
 
-- **Pursuing a Graduate Degree in Software Architecture** (2025 - Present) - UNIÚNICA
+- **Graduate Degree in Software Architecture** (2025 - 2026) - UNIÚNICA
 - **Bachelor's Degree in Systems Analysis and Development** (2019 - 2021) - Unifametro
 - **Computer Technician** (2016 - 2018) - EEEP Dona Creusa do Carmo Rocha
 - **Cypress, from Zero to Cloud** (Udemy)
@@ -109,19 +114,9 @@ I specialize in Front-end development (HTML, CSS, TypeScript, JavaScript, Angula
 
 ### 📊 Statistics
 
-<p>
+<p align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marcospsdev&show_icons=true&theme=dark&include_all_commits=true&locale=en"
-  />
-
-  <img
-    align="left"
-    alt="GitHub Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsdev&theme=dark&layout=compact&custom_title=Technologies"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=marcospsdev&theme=dark&hide_border=true&locale=en"
   />
 </p>
