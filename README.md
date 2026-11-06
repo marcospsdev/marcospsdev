@@ -40,7 +40,7 @@ I specialize in Front-end development (HTML, CSS, JavaScript, TypeScript, React,
 
 ### 💼 Professional Experience
 
-<details>
+<details open>
 <summary><b>Mid-level Front-end Developer | GreenTech Solutions</b></summary>
 <br>
 08/2025 - Present
