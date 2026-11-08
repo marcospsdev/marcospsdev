@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/marcospsdev">
+<a href="https://marcosps-portfolio.vercel.app" target="_blank">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Coding%20since%202016;Web%20and%20Mobile%20Solutions;Always%20learning%20and%20evolving;&font=Fira%20Code&center=true&width=440&height=45&color=00eaff&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
@@ -10,12 +10,18 @@ Hello! My name is Marcos Paulo, I am 26 years old and I am from Fortaleza, Cear�
 
 I specialize in Front-end development (HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue), Mobile development (Flutter), Back-end (Node.js, Java, C#, RESTful APIs), and Cloud & DevOps (AWS S3, Docker, CI/CD with GitHub Actions). I work with agile methodologies such as Scrum and BDD, and I follow good coding practices such as Clean Code, SOLID, Design Patterns and GitFlow. In Quality Assurance, I have extensive experience building automated E2E, unit and API tests (Cypress, Selenium, Jest).
 
+🔗 **Portfolio:** [marcosps-portfolio.vercel.app](https://marcosps-portfolio.vercel.app) — projects, experience and contact in one place.
+
 ---
 
 ### 🌐 Connect
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/marcospsdev" target="_blank"><img
+   <a href="https://marcosps-portfolio.vercel.app" target="_blank"><img
+   alt="Portfolio"
+   title="Visit my portfolio"
+   src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+/></a> <a href="https://www.linkedin.com/in/marcospsdev" target="_blank"><img
    alt="LinkedIn"
    title="Connect with me on LinkedIn"
    src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
