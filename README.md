@@ -53,7 +53,7 @@ I specialize in Front-end development (HTML, CSS, JavaScript, TypeScript, React,
 </details>
 
 <details>
-<summary><b>Senior Quality Analyst | Nway Pro</b></summary>
+<summary><b>Mid-level Quality Analyst | Nway Pro</b></summary>
 <br>
 03/2023 - 02/2025
 <ul>
